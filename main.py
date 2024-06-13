@@ -2,6 +2,8 @@
 # thereby we allocate memory only for them. But there is one disadvantage of this method.
 # Because adding a new variable takes more time
 
+#https://github.com/ONETAPL3G3ND
+
 class user:
     __slots__ = ("username", "password")
 
